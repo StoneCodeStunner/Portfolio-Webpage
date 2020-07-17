@@ -1,9 +1,10 @@
+//body background
 body {
   background-image: url(coding-background.jpg);
   background-size: 1000px;
   margin: 8px 8px 8px 8px;
 }
-
+// Top header with Name
 h1 {
   color: rgb(40, 160, 201);
   background:  black;
@@ -15,7 +16,7 @@ h1 {
   border-top-right-radius: 10px;
   
 }
-
+// horizontal line between head 1 & 2
 hr {
   height: 4px;
   background: rgb(40, 160, 201);
@@ -23,7 +24,7 @@ hr {
   border-radius: 5px;
   margin-bottom: 28px;
 }
-
+// Second Head with city and state
 h2 {
   color: rgb(40, 160, 201);;
   background: black;
@@ -40,7 +41,7 @@ h2 {
    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.884);
 
 }
-
+// Introduction / love for programming / favorite food
 article {
   text-align: center;
   border: 5px double rgb(40, 160, 201);;
@@ -49,12 +50,12 @@ article {
   margin-top: 20px;
   padding: 10px;
 }
-
+// h3 heading style
 h3 {
   color: rgb(40, 160, 201);;
 
 }
-
+// image styling
 .responsive {
   display: block;
   margin-left: auto;
@@ -69,13 +70,13 @@ h3 {
  
   
 }
-
+// paragraph style
 p {
   color: rgb(40, 160, 201);
   padding: 10px;
 
 }
-
+// unordered list style
 ul {
   color: rgb(40, 160, 201);
   padding-left: 0;
@@ -83,11 +84,12 @@ ul {
 ul li {
   list-style-position: inside;
 }
-
+// ordered list style
 ol {
   color: rgb(40, 160, 201);
   list-style-position: inside;
 }
+// footer style
  footer {
   background: black;
   text-align: center;
@@ -99,7 +101,7 @@ ol {
   box-shadow: 0 3px 6px rgba(0, 0, 0, 0.884);
 
  }
-
+ // interactive links style
  a {
    color: blue;
  }
