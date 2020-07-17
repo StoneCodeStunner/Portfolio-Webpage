@@ -1,0 +1,113 @@
+body {
+  background-image: url(nature.JPG);
+  background-size: cover;
+}
+
+h1 {
+  color: black;
+  background:  rgb(40, 160, 201);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-style: italic;
+  text-align: center;
+  border: 2px double black;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  
+}
+
+hr {
+  height: 4px;
+  background: rgb(40, 160, 201);
+  border: 2px solid black;
+  border-radius: 5px;
+  margin-bottom: 28px;
+}
+
+h2 {
+  color: black;
+  background: rgb(40, 160, 201);
+  background-size: 20px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-style: italic;
+  font-size: 25px;
+  text-align: center;
+  border: 2px double black;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  padding-top: 10px;
+  padding-bottom: 15px;
+   box-shadow: 0 3px 6px rgba(0, 0, 0, 0.884);
+
+}
+
+article {
+  text-align: center;
+  border: 2px solid black;
+  border-radius: 5px;
+  background: rgb(40, 160, 201);
+  margin-top: 20px;
+}
+
+h3 {
+  color: black;
+
+}
+
+.responsive {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  height: auto;
+  border-radius: 50%;
+  border: 2px solid  rgb(40, 160, 201);;
+  box-shadow: 0 3px 6px rgba(0,0,0,0.9);
+
+  
+ 
+  
+}
+
+p {
+  padding: 10px;
+
+}
+
+ul {
+  padding-left: 0;
+}
+ul li {
+  list-style-position: inside;
+}
+
+ol {
+  list-style-position: inside;
+}
+ footer {
+  background: rgb(40, 160, 201);
+  text-align: center;
+  border: 2px double black;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  padding-top: 10px;
+  padding-bottom: 15px;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.884);
+
+ }
+
+ a {
+   color: blue;
+ }
+ a:link {
+   color: blue;
+ }
+ a:visited {
+   color: red;
+ }
+ a:hover {
+   color: green;
+ }
+ a:active {
+   color: white;
+ }
+
